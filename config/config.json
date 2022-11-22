@@ -1,0 +1,41 @@
+{
+	"development": {
+		"username": "cpandit201",
+		"password": "eCAUcMYWD46N",
+		"database": "main",
+		"host": "sparkling-lab-536937.us-east-2.aws.neon.tech",
+		"dialect": "postgres",
+		"ssl": true,
+		"dialectOptions": {
+			"ssl": {
+				"require": true
+			}
+		}
+	},
+	"test": {
+		"username": "cpandit201",
+		"password": "wGxpOF3D8hsc",
+		"database": "main",
+		"host": "divine-water-907569.us-east-2.aws.neon.tech",
+		"dialect": "postgres",
+		"ssl": true,
+		"dialectOptions": {
+			"ssl": {
+				"require": true
+			}
+		}
+	},
+	"production": {
+		"username": "cpandit201",
+		"password": "9PxOCGotnl6B",
+		"database": "main",
+		"host": "sparkling-rice-392488.us-east-2.aws.neon.tech",
+		"dialect": "postgres",
+		"ssl": true,
+		"dialectOptions": {
+			"ssl": {
+				"require": true
+			}
+		}
+	}
+}
